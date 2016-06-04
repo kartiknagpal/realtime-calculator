@@ -1,0 +1,10 @@
+{
+    "name": "chatRelay",
+    "version": "0.0.0",
+    "description": "Chat relay",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest"
+    },
+    "author": "kartik"
+}
